@@ -1,0 +1,15 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Simple NodeJS server to run VueJS Applications using 'mode:history'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Leonardo Sacoman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "serve-static": "^1.13.2"
+  }
+}
